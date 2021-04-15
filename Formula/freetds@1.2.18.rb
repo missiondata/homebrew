@@ -12,7 +12,7 @@ class FreetdsAT1218 < Formula
 
   bottle do
     root_url "http://devops.missiondata.net/Homebrew/Bottles"
-    sha256 "e6af2fd5a5da6ec178a8f5fec295db1f72a89141a61a1d894c50c1f48ab5ebb2" => :big_sur
+    sha256 big_sur: "e6af2fd5a5da6ec178a8f5fec295db1f72a89141a61a1d894c50c1f48ab5ebb2"
   end
 
   head do
